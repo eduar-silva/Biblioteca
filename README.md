@@ -8,7 +8,7 @@
 ``- JavaScript`` <br> 
 ``- PHP`` <br>
 ``BootStrap`` <br>
-``MySQL`` <br
+``MySQL``
 
 # Funcionamento
 <p>O site funciona fazendo o registro o nome de um cliente, funcionário, autor de livro, livro (nome do livro, gênero, e se quiser, é possível associar o autor ao livro), e ao final é registrado o nome do funcionário que fez o atendimento, nome do cliente (prestamista), nome do livro emprestado, data de empréstimo e data de devolução.</p>
